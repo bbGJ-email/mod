@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47.2.20,)"
+license="MIT"
+
+[[mods]]
+modId="lightning_tnt"
+version="1.0.0"
+displayName="Lightning TNT"
+description="This mod adds a new Lightning TNT block that, when ignited, summons massive thunderstorms with continuous lightning strikes and destructive explosions across the Minecraft world."
